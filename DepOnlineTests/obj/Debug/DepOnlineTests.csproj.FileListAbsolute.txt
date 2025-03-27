@@ -1,0 +1,15 @@
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnlineTests\bin\Debug\DepOnlineTests.dll
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnlineTests\bin\Debug\DepOnlineTests.pdb
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnlineTests\bin\Debug\DepOnline.exe
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnlineTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnlineTests\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnlineTests\bin\Debug\stdole.dll
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnlineTests\bin\Debug\DepOnline.pdb
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnlineTests\bin\Debug\DepOnline.exe.config
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnlineTests\bin\Debug\aa\DepOnline.resources.dll
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnlineTests\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnlineTests\obj\Debug\DepOnlineTests.csprojAssemblyReference.cache
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnlineTests\obj\Debug\DepOnlineTests.csproj.CoreCompileInputs.cache
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnlineTests\obj\Debug\DepOnlineTests.csproj.CopyComplete
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnlineTests\obj\Debug\DepOnlineTests.dll
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnlineTests\obj\Debug\DepOnlineTests.pdb

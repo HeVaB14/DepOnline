@@ -1,0 +1,79 @@
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnline\bin\x86\Release\DepOnline.exe.config
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnline\bin\x86\Release\DepOnline.exe
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnline\bin\x86\Release\DepOnline.pdb
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnline\bin\x86\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnline\bin\x86\Release\stdole.dll
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnline\obj\x86\Release\DepOnline.Vista.Ayuda.resources
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnline\obj\x86\Release\DepOnline.Vista.CuartogeneralView.resources
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnline\obj\x86\Release\DepOnline.Properties.Resources.resources
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnline\obj\x86\Release\DepOnline.Vista.CuartosDisponible.resources
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnline\obj\x86\Release\DepOnline.Vista.Cuartosnodisponible.resources
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnline\obj\x86\Release\DepOnline.Vista.Home.resources
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnline\obj\x86\Release\DepOnline.Vista.ImagenesView.resources
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnline\obj\x86\Release\DepOnline.Vista.Login.resources
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnline\obj\x86\Release\DepOnline.Vista.PerfilView.resources
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnline\obj\x86\Release\DepOnline.Vista.Reportecua.resources
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnline\obj\x86\Release\DepOnline.csproj.GenerateResource.cache
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnline\obj\x86\Release\DepOnline.csproj.CoreCompileInputs.cache
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnline\obj\x86\Release\DepOnline.csproj.CopyComplete
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnline\obj\x86\Release\DepOnline.exe
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnline\obj\x86\Release\DepOnline.pdb
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnline\obj\x86\Release\DepOnline.csprojAssemblyReference.cache
+F:\DepOnline\DepOnline\obj\x86\Release\DepOnline.csprojAssemblyReference.cache
+F:\DepOnline\DepOnline\obj\x86\Release\DepOnline.Vista.Ayuda.resources
+F:\DepOnline\DepOnline\obj\x86\Release\DepOnline.Vista.CuartogeneralView.resources
+F:\DepOnline\DepOnline\obj\x86\Release\DepOnline.Properties.Resources.resources
+F:\DepOnline\DepOnline\obj\x86\Release\DepOnline.Vista.CuartosDisponible.resources
+F:\DepOnline\DepOnline\obj\x86\Release\DepOnline.Vista.Cuartosnodisponible.resources
+F:\DepOnline\DepOnline\obj\x86\Release\DepOnline.Vista.Home.resources
+F:\DepOnline\DepOnline\obj\x86\Release\DepOnline.Vista.ImagenesView.resources
+F:\DepOnline\DepOnline\obj\x86\Release\DepOnline.Vista.Login.resources
+F:\DepOnline\DepOnline\obj\x86\Release\DepOnline.Vista.PerfilView.resources
+F:\DepOnline\DepOnline\obj\x86\Release\DepOnline.Vista.Reportecua.resources
+F:\DepOnline\DepOnline\obj\x86\Release\DepOnline.csproj.GenerateResource.cache
+F:\DepOnline\DepOnline\obj\x86\Release\DepOnline.csproj.CoreCompileInputs.cache
+F:\DepOnline\DepOnline\obj\x86\Release\DepOnline.exe
+F:\DepOnline\DepOnline\obj\x86\Release\DepOnline.pdb
+F:\DepOnline\DepOnline\bin\x86\Release\DepOnline.exe.config
+F:\DepOnline\DepOnline\bin\x86\Release\DepOnline.exe
+F:\DepOnline\DepOnline\bin\x86\Release\DepOnline.pdb
+F:\DepOnline\DepOnline\obj\x86\Release\DepOnline.csproj.CopyComplete
+C:\Users\Bryan HeVa\Documents\Respaldo  usb rosa\DepOnline\DepOnline\bin\x86\Release\DepOnline.exe.config
+C:\Users\Bryan HeVa\Documents\Respaldo  usb rosa\DepOnline\DepOnline\bin\x86\Release\DepOnline.exe
+C:\Users\Bryan HeVa\Documents\Respaldo  usb rosa\DepOnline\DepOnline\bin\x86\Release\DepOnline.pdb
+C:\Users\Bryan HeVa\Documents\Respaldo  usb rosa\DepOnline\DepOnline\obj\x86\Release\DepOnline.csproj.AssemblyReference.cache
+C:\Users\Bryan HeVa\Documents\Respaldo  usb rosa\DepOnline\DepOnline\obj\x86\Release\DepOnline.Vista.Ayuda.resources
+C:\Users\Bryan HeVa\Documents\Respaldo  usb rosa\DepOnline\DepOnline\obj\x86\Release\DepOnline.Vista.CuartogeneralView.resources
+C:\Users\Bryan HeVa\Documents\Respaldo  usb rosa\DepOnline\DepOnline\obj\x86\Release\DepOnline.Properties.Resources.resources
+C:\Users\Bryan HeVa\Documents\Respaldo  usb rosa\DepOnline\DepOnline\obj\x86\Release\DepOnline.Vista.CuartosDisponible.resources
+C:\Users\Bryan HeVa\Documents\Respaldo  usb rosa\DepOnline\DepOnline\obj\x86\Release\DepOnline.Vista.Cuartosnodisponible.resources
+C:\Users\Bryan HeVa\Documents\Respaldo  usb rosa\DepOnline\DepOnline\obj\x86\Release\DepOnline.Vista.Home.resources
+C:\Users\Bryan HeVa\Documents\Respaldo  usb rosa\DepOnline\DepOnline\obj\x86\Release\DepOnline.Vista.ImagenesView.resources
+C:\Users\Bryan HeVa\Documents\Respaldo  usb rosa\DepOnline\DepOnline\obj\x86\Release\DepOnline.Vista.Login.resources
+C:\Users\Bryan HeVa\Documents\Respaldo  usb rosa\DepOnline\DepOnline\obj\x86\Release\DepOnline.Vista.PerfilView.resources
+C:\Users\Bryan HeVa\Documents\Respaldo  usb rosa\DepOnline\DepOnline\obj\x86\Release\DepOnline.Vista.Reportecua.resources
+C:\Users\Bryan HeVa\Documents\Respaldo  usb rosa\DepOnline\DepOnline\obj\x86\Release\DepOnline.csproj.GenerateResource.cache
+C:\Users\Bryan HeVa\Documents\Respaldo  usb rosa\DepOnline\DepOnline\obj\x86\Release\DepOnline.csproj.CoreCompileInputs.cache
+C:\Users\Bryan HeVa\Documents\Respaldo  usb rosa\DepOnline\DepOnline\obj\x86\Release\DepOnline.csproj.CopyComplete
+C:\Users\Bryan HeVa\Documents\Respaldo  usb rosa\DepOnline\DepOnline\obj\x86\Release\DepOnline.exe
+C:\Users\Bryan HeVa\Documents\Respaldo  usb rosa\DepOnline\DepOnline\obj\x86\Release\DepOnline.pdb
+C:\Users\Bryan HeVa\Documents\Respaldo  usb rosa\DepOnline\DepOnline\obj\x86\Release\DepOnline.csproj.SuggestedBindingRedirects.cache
+C:\Users\Huawei\OneDrive\Documentos\DepOnline\DepOnline\bin\x86\Release\DepOnline.exe.config
+C:\Users\Huawei\OneDrive\Documentos\DepOnline\DepOnline\bin\x86\Release\DepOnline.exe
+C:\Users\Huawei\OneDrive\Documentos\DepOnline\DepOnline\bin\x86\Release\DepOnline.pdb
+C:\Users\Huawei\OneDrive\Documentos\DepOnline\DepOnline\obj\x86\Release\DepOnline.csproj.AssemblyReference.cache
+C:\Users\Huawei\OneDrive\Documentos\DepOnline\DepOnline\obj\x86\Release\DepOnline.Vista.Ayuda.resources
+C:\Users\Huawei\OneDrive\Documentos\DepOnline\DepOnline\obj\x86\Release\DepOnline.Vista.CuartogeneralView.resources
+C:\Users\Huawei\OneDrive\Documentos\DepOnline\DepOnline\obj\x86\Release\DepOnline.Properties.Resources.resources
+C:\Users\Huawei\OneDrive\Documentos\DepOnline\DepOnline\obj\x86\Release\DepOnline.Vista.CuartosDisponible.resources
+C:\Users\Huawei\OneDrive\Documentos\DepOnline\DepOnline\obj\x86\Release\DepOnline.Vista.Cuartosnodisponible.resources
+C:\Users\Huawei\OneDrive\Documentos\DepOnline\DepOnline\obj\x86\Release\DepOnline.Vista.Home.resources
+C:\Users\Huawei\OneDrive\Documentos\DepOnline\DepOnline\obj\x86\Release\DepOnline.Vista.ImagenesView.resources
+C:\Users\Huawei\OneDrive\Documentos\DepOnline\DepOnline\obj\x86\Release\DepOnline.Vista.Login.resources
+C:\Users\Huawei\OneDrive\Documentos\DepOnline\DepOnline\obj\x86\Release\DepOnline.Vista.PerfilView.resources
+C:\Users\Huawei\OneDrive\Documentos\DepOnline\DepOnline\obj\x86\Release\DepOnline.Vista.Reportecua.resources
+C:\Users\Huawei\OneDrive\Documentos\DepOnline\DepOnline\obj\x86\Release\DepOnline.csproj.GenerateResource.cache
+C:\Users\Huawei\OneDrive\Documentos\DepOnline\DepOnline\obj\x86\Release\DepOnline.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\OneDrive\Documentos\DepOnline\DepOnline\obj\x86\Release\DepOnline.csproj.CopyComplete
+C:\Users\Huawei\OneDrive\Documentos\DepOnline\DepOnline\obj\x86\Release\DepOnline.exe
+C:\Users\Huawei\OneDrive\Documentos\DepOnline\DepOnline\obj\x86\Release\DepOnline.pdb

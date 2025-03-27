@@ -1,0 +1,17 @@
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\bin\x64\Debug\DepOnline.exe.config
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\bin\x64\Debug\DepOnline.exe
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\bin\x64\Debug\DepOnline.pdb
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\obj\x64\Debug\DepOnline.csprojAssemblyReference.cache
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\obj\x64\Debug\DepOnline.CuartosView.resources
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\obj\x64\Debug\DepOnline.Properties.Resources.resources
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\obj\x64\Debug\DepOnline.Vista.DireccionView.resources
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\obj\x64\Debug\DepOnline.Vista.Home.resources
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\obj\x64\Debug\DepOnline.Vista.Login.resources
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\obj\x64\Debug\DepOnline.Vista.ServiciosView.resources
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\obj\x64\Debug\DepOnline.csproj.GenerateResource.cache
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\obj\x64\Debug\DepOnline.csproj.CoreCompileInputs.cache
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\obj\x64\Debug\DepOnline.exe
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\obj\x64\Debug\DepOnline.pdb
+C:\Users\gama\Desktop\Integradora\DepOnline\DepOnline\obj\x64\Debug\DepOnline.csprojAssemblyReference.cache
+C:\Users\gama\Desktop\Integradora\DepOnline\DepOnline\obj\x64\Debug\DepOnline.exe
+C:\Users\gama\Desktop\Integradora\DepOnline\DepOnline\obj\x64\Debug\DepOnline.pdb

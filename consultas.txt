@@ -1,0 +1,20 @@
+--------
+insertar valores al propietario
+
+insert into propietario values(0,'Carlos','Hernandez','Vazquez',32,'Masculino','23','9191255988','Rayon','avbenitojuarez',
+'Lokus','vvvv',2,'img');
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+Insertar cuartos
+insert into cuarto values(0,'Avenida Ruiz Cortinez','29580','Guayabal','si',1,'2x4','qwerty','Pequeño',1);
+------------------------------------------------------------------------------------------------------------------------------------------------
+insertar servicios(
+ insert into sevicios values(0,1,1,1,1,1,1);
+-----------------------------------------------------------------------------------------------------------------------------------------------
+ver  cuartos.
+
+Select * from propietario
+inner join cuarto
+inner join sevicios
+on propietario.idpropietario=cuarto.Propietario_idpropietario and
+cuarto.idcuarto=sevicios.Cuarto_idcuarto where Nombre_Usuario='Lokus';

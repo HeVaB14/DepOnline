@@ -1,0 +1,210 @@
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\bin\x86\Debug\DepOnline.exe.config
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\bin\x86\Debug\DepOnline.exe
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\bin\x86\Debug\DepOnline.pdb
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\obj\x86\Debug\DepOnline.csprojAssemblyReference.cache
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\obj\x86\Debug\DepOnline.CuartosView.resources
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Properties.Resources.resources
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Vista.Home.resources
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Vista.Login.resources
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\obj\x86\Debug\DepOnline.csproj.GenerateResource.cache
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\obj\x86\Debug\DepOnline.csproj.CoreCompileInputs.cache
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\obj\x86\Debug\DepOnline.exe
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\obj\x86\Debug\DepOnline.pdb
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Vista.ImagenesView.resources
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\bin\x86\Debug\Vista\ServicioView.resx
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\bin\x86\Debug\Vista\ServicioView.cs
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\bin\x86\Debug\Vista\ServicioView.Designer.cs
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Vista.ServicioView.resources
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Vista.PerfilView.resources
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Vista.Reporteview.resources
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.Shared.dll
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\bin\x86\Debug\FlashControlV71.dll
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\bin\x86\Debug\ShockwaveFlashObjects.dll
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\bin\x86\Debug\stdole.dll
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Vista.ReporteDeCuartos.resources
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\obj\x86\Debug\DepOnline.csproj.CopyComplete
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\bin\x86\Debug\aa\DepOnline.resources.dll
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Vista.Reporteview.aa.resources
+C:\Users\wm\Documents\1universidad tecnologica de la selva\4to Cuatrimestre\Integradora3\DepOnline\DepOnline\obj\x86\Debug\aa\DepOnline.resources.dll
+E:\Integradora\DepOnline\DepOnline\bin\x86\Debug\Vista\ServicioView.resx
+E:\Integradora\DepOnline\DepOnline\bin\x86\Debug\Vista\ServicioView.cs
+E:\Integradora\DepOnline\DepOnline\bin\x86\Debug\Vista\ServicioView.Designer.cs
+E:\Integradora\DepOnline\DepOnline\bin\x86\Debug\DepOnline.exe.config
+E:\Integradora\DepOnline\DepOnline\bin\x86\Debug\DepOnline.exe
+E:\Integradora\DepOnline\DepOnline\bin\x86\Debug\DepOnline.pdb
+E:\Integradora\DepOnline\DepOnline\bin\x86\Debug\aa\DepOnline.resources.dll
+E:\Integradora\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Integradora\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.ReportSource.dll
+E:\Integradora\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.Shared.dll
+E:\Integradora\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Integradora\DepOnline\DepOnline\bin\x86\Debug\FlashControlV71.dll
+E:\Integradora\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Integradora\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Integradora\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Integradora\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Integradora\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Integradora\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Integradora\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Integradora\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Integradora\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Integradora\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Integradora\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Integradora\DepOnline\DepOnline\bin\x86\Debug\ShockwaveFlashObjects.dll
+E:\Integradora\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Integradora\DepOnline\DepOnline\bin\x86\Debug\stdole.dll
+E:\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.csprojAssemblyReference.cache
+E:\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.CuartosView.resources
+E:\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Properties.Resources.resources
+E:\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Vista.Home.resources
+E:\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Vista.ImagenesView.resources
+E:\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Vista.Login.resources
+E:\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Vista.PerfilView.resources
+E:\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Vista.ReporteDeCuartos.resources
+E:\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Vista.Reporteview.resources
+E:\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Vista.ServicioView.resources
+E:\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Vista.Reporteview.aa.resources
+E:\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.csproj.GenerateResource.cache
+E:\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.csproj.CoreCompileInputs.cache
+E:\Integradora\DepOnline\DepOnline\obj\x86\Debug\aa\DepOnline.resources.dll
+E:\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.csproj.CopyComplete
+E:\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.exe
+E:\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.pdb
+D:\Integradora\DepOnline\DepOnline\bin\x86\Debug\Vista\ServicioView.resx
+D:\Integradora\DepOnline\DepOnline\bin\x86\Debug\Vista\ServicioView.cs
+D:\Integradora\DepOnline\DepOnline\bin\x86\Debug\Vista\ServicioView.Designer.cs
+D:\Integradora\DepOnline\DepOnline\bin\x86\Debug\DepOnline.exe.config
+D:\Integradora\DepOnline\DepOnline\bin\x86\Debug\DepOnline.exe
+D:\Integradora\DepOnline\DepOnline\bin\x86\Debug\DepOnline.pdb
+D:\Integradora\DepOnline\DepOnline\bin\x86\Debug\aa\DepOnline.resources.dll
+D:\Integradora\DepOnline\DepOnline\bin\x86\Debug\stdole.dll
+D:\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.csprojResolveAssemblyReference.cache
+D:\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.CuartosView.resources
+D:\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Properties.Resources.resources
+D:\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Vista.Home.resources
+D:\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Vista.ImagenesView.resources
+D:\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Vista.Login.resources
+D:\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Vista.PerfilView.resources
+D:\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Vista.ReporteDeCuartos.resources
+D:\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Vista.Reporteview.resources
+D:\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Vista.ServicioView.resources
+D:\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Vista.Reporteview.aa.resources
+D:\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.csproj.GenerateResource.Cache
+D:\Integradora\DepOnline\DepOnline\obj\x86\Debug\aa\DepOnline.resources.dll
+D:\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.exe
+D:\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.pdb
+H:\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.csprojAssemblyReference.cache
+H:\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.CuartosView.resources
+H:\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Properties.Resources.resources
+H:\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Vista.Home.resources
+H:\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Vista.ImagenesView.resources
+H:\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Vista.Login.resources
+H:\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Vista.PerfilView.resources
+H:\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Vista.ReporteDeCuartos.resources
+H:\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Vista.Reporteview.resources
+H:\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Vista.ServicioView.resources
+H:\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Vista.Reporteview.aa.resources
+H:\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.csproj.GenerateResource.cache
+H:\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.csproj.CoreCompileInputs.cache
+H:\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.exe
+H:\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.pdb
+H:\Integradora\DepOnline\DepOnline\bin\x86\Debug\Vista\ServicioView.resx
+H:\Integradora\DepOnline\DepOnline\bin\x86\Debug\Vista\ServicioView.cs
+H:\Integradora\DepOnline\DepOnline\bin\x86\Debug\Vista\ServicioView.Designer.cs
+H:\Integradora\DepOnline\DepOnline\bin\x86\Debug\DepOnline.exe.config
+H:\Integradora\DepOnline\DepOnline\bin\x86\Debug\DepOnline.exe
+H:\Integradora\DepOnline\DepOnline\bin\x86\Debug\DepOnline.pdb
+H:\Integradora\DepOnline\DepOnline\bin\x86\Debug\aa\DepOnline.resources.dll
+H:\Integradora\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.CrystalReports.Engine.dll
+H:\Integradora\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.ReportSource.dll
+H:\Integradora\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.Shared.dll
+H:\Integradora\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.Windows.Forms.dll
+H:\Integradora\DepOnline\DepOnline\bin\x86\Debug\FlashControlV71.dll
+H:\Integradora\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+H:\Integradora\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+H:\Integradora\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+H:\Integradora\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+H:\Integradora\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+H:\Integradora\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+H:\Integradora\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+H:\Integradora\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+H:\Integradora\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+H:\Integradora\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+H:\Integradora\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+H:\Integradora\DepOnline\DepOnline\bin\x86\Debug\ShockwaveFlashObjects.dll
+H:\Integradora\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+H:\Integradora\DepOnline\DepOnline\bin\x86\Debug\stdole.dll
+H:\Integradora\DepOnline\DepOnline\obj\x86\Debug\aa\DepOnline.resources.dll
+H:\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.csproj.CopyComplete
+C:\Users\gama\Desktop\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.csprojAssemblyReference.cache
+C:\Users\gama\Desktop\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.exe
+C:\Users\gama\Desktop\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.pdb
+C:\Users\gama\Desktop\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.CuartosView.resources
+C:\Users\gama\Desktop\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Properties.Resources.resources
+C:\Users\gama\Desktop\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Vista.Home.resources
+C:\Users\gama\Desktop\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Vista.ImagenesView.resources
+C:\Users\gama\Desktop\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Vista.Login.resources
+C:\Users\gama\Desktop\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Vista.PerfilView.resources
+C:\Users\gama\Desktop\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Vista.ServicioView.resources
+C:\Users\gama\Desktop\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.csproj.GenerateResource.cache
+C:\Users\gama\Desktop\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.csproj.CoreCompileInputs.cache
+C:\Users\gama\Desktop\Integradora\DepOnline\DepOnline\bin\x86\Debug\Vista\ServicioView.resx
+C:\Users\gama\Desktop\Integradora\DepOnline\DepOnline\bin\x86\Debug\Vista\ServicioView.cs
+C:\Users\gama\Desktop\Integradora\DepOnline\DepOnline\bin\x86\Debug\Vista\ServicioView.Designer.cs
+C:\Users\gama\Desktop\Integradora\DepOnline\DepOnline\bin\x86\Debug\DepOnline.exe.config
+C:\Users\gama\Desktop\Integradora\DepOnline\DepOnline\bin\x86\Debug\DepOnline.exe
+C:\Users\gama\Desktop\Integradora\DepOnline\DepOnline\bin\x86\Debug\DepOnline.pdb
+C:\Users\gama\Desktop\Integradora\DepOnline\DepOnline\bin\x86\Debug\FlashControlV71.dll
+C:\Users\gama\Desktop\Integradora\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\gama\Desktop\Integradora\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\gama\Desktop\Integradora\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\gama\Desktop\Integradora\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\gama\Desktop\Integradora\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\gama\Desktop\Integradora\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\gama\Desktop\Integradora\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\gama\Desktop\Integradora\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\gama\Desktop\Integradora\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\gama\Desktop\Integradora\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\gama\Desktop\Integradora\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\gama\Desktop\Integradora\DepOnline\DepOnline\bin\x86\Debug\ShockwaveFlashObjects.dll
+C:\Users\gama\Desktop\Integradora\DepOnline\DepOnline\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\gama\Desktop\Integradora\DepOnline\DepOnline\bin\x86\Debug\stdole.dll
+C:\Users\gama\Desktop\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.csproj.CopyComplete
+C:\Users\gama\Desktop\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Vista.CuartogeneralView.resources
+C:\Users\gama\Desktop\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Vista.Reportecua.resources
+C:\Users\gama\Desktop\Integradora\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Vista.VistaCuartototal.resources
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnline\bin\x86\Debug\DepOnline.exe.config
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnline\bin\x86\Debug\DepOnline.exe
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnline\bin\x86\Debug\DepOnline.pdb
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnline\bin\x86\Debug\stdole.dll
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Vista.CuartogeneralView.resources
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Properties.Resources.resources
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Vista.Home.resources
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Vista.ImagenesView.resources
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Vista.Login.resources
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Vista.PerfilView.resources
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Vista.Reportecua.resources
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnline\obj\x86\Debug\DepOnline.csproj.GenerateResource.Cache
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnline\obj\x86\Debug\DepOnline.exe
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnline\obj\x86\Debug\DepOnline.pdb
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnline\bin\x86\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Vista.CuartosDisponible.resources
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Vista.Cuartosnodisponible.resources
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnline\obj\x86\Debug\DepOnline.Vista.Ayuda.resources
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnline\obj\x86\Debug\DepOnline.csprojAssemblyReference.cache
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnline\obj\x86\Debug\DepOnline.csproj.CoreCompileInputs.cache
+C:\Users\Bryan Heva\Documents\1universidad tecnologica de la selva\5 cuatrimestre\Integradora1\DepOnline\DepOnline\obj\x86\Debug\DepOnline.csproj.CopyComplete
